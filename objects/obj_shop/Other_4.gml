@@ -1,4 +1,4 @@
-objCAM.following = noone;
+CAM.following = noone;
 with (CAM) {
     x = 0;
     y = 0;
